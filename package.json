@@ -1,0 +1,61 @@
+{
+  "name": "goodreads-clone-frontend-local",
+  "version": "0.0.1",
+  "private": true,
+  "description": "for local devlop",
+  "author": {
+    "name": "Sarc"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "_id": "goodreads-clone-frontend-local@0.0.1",
+  "bugs": {
+    "url": "https://github.com/A2athoth/goodreads-clone-frontend-local-/issues"
+  },
+  "homepage": "https://github.com/A2athoth/goodreads-clone-frontend-local-#readme",
+  "keywords": [
+    "Sarc"
+  ],
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A2athoth/goodreads-clone-frontend-local-.git"
+  }
+}
